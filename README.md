@@ -1,9 +1,11 @@
 
-<h2><a href="https://www.linkedin.com/in/niconespral/">
+<a href="https://www.linkedin.com/in/niconespral/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a> Full Stack Developer</h2>
+</a> 
+## Full Stack Developer
   
-<h2> Worked With:</h2>
+## Worked With:
+
 <div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45" />
