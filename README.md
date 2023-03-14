@@ -16,8 +16,7 @@
 # Currently working on:
 
 
-**Govinda Comidas Web** This was my first frontend website, built in march '22 as a final project when i was studying at coderhouse.com  
-
+**Govinda Comidas Web** This was my first frontend website, built in march '22 as a final project when i was studying at www.coderhouse.com  
 Take a look! https://nespralnic.github.io/govindaweb/  
 Repos: https://github.com/nespralnic/govindaweb
 
