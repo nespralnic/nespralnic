@@ -15,13 +15,19 @@
 
 # Currently working on:
 
-**Diagrama Polar Web** Frontend development to provide audio services spanish company Diagrama Polar a landing page. 
-Website is currently (march  '23) in development stage.
-Take a look!  https://nespralnic.github.io/polar1/home.html
-Repos: https://github.com/nespralnic/polar1
+
+**Govinda Comidas Web** This was my first frontend website, built in march '22 as a final project when i was studying at coderhouse.com  
+
+Take a look! https://nespralnic.github.io/govindaweb/  
+Repos: https://github.com/nespralnic/govindaweb
+
+**Diagrama Polar Web** Frontend development to provide audio services spanish company Diagrama Polar a landing page.   
+Website is currently (march  '23) in development stage.  
+Take a look!  https://nespralnic.github.io/polar1/home.html  
+Repos: https://github.com/nespralnic/polar1  
 Beta version: https://nespralnic.github.io/polar/
 
-**Sudaku** Popular game Sudoku online version. Built on React, Express & Mongo DB. This project started in january '23 and is already playable, so far invest my best efforts in developing back-end and business logic. Work in progress!!
+**Sudaku** Popular game Sudoku online version. Built on React, Express & Mongo DB. This project started in january '23 and is already playable, so far invest my best efforts in developing back-end and business logic. Work in progress!!  
 Take a look! https://sudaku-web.vercel.app/sudaku 
 
 **ERP SYSTEM** Working since June '22 in a private mentorship for argentinian company developing and providing technical support for their own customized ERP system, running on PHP and MySQL.
